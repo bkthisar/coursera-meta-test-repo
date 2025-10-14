@@ -5,3 +5,4 @@
 
 ---
 
+This is the repository used for learning in the Meta Version Control course
